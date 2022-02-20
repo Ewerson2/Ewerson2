@@ -22,7 +22,7 @@
  
  <hr>
  
- <h3> Contatos </h3>
+ <h3> Contact me </h3>
 <div>
   <a href="https://www.linkedin.com/in/ewerson-de-jesus/" target ="_blank"><img align="center" alt="HTML" height="30" width="110" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/_ewerson/" target="_blank"><img align="center" alt="HTML" height="30" width="110" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
