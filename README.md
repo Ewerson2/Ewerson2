@@ -1,7 +1,7 @@
 ### Hi there, I'm Ewerson de Jesus👋
 
 
-- 🌱 I’m currently learning JsvaScript, HTML5, CSS3 and React
+- 🌱 I’m currently learning JavaScript, HTML5, CSS3 and React
 - 🤞 In a career transition phase and looking for the first opportunity 
 
 ![Ewerson2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ewerson2&show_icons=true&theme=chartreuse-dark)
